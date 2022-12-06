@@ -3,13 +3,11 @@
 
 <div align="center"> 
 
-
-
-# 👋 Welcome to my Github profile.
-
 <br>
 
 </div>
+
+# 👋 Welcome to my Github profile.
 
 ##  :stuck_out_tongue_winking_eye: I'm a front-end developer, I love coding, I'm looking for an opportunity to prove my commitment and dedication
 
